@@ -1,0 +1,49 @@
+.container{
+	
+}
+.row{
+	margin-bottom:0px;
+}
+
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 0px 0px;
+    }
+
+.jumbotron img{
+	margin:0 auto;
+}
+nav.col-md-12{
+	background-color:#000;
+	color:#fff;
+	text-transform:uppercase;
+	text-align:center;
+}
+
+article.col-md-8{
+	background-color:#fff;
+	color:#fff;
+	text-align:center;
+	text-transform: uppercase;
+	padding-right:0px;
+	padding-left:0px;
+	margin-bottom:0px;
+}
+
+aside{
+	background-color:red;
+	color:#fff;
+	text-align:center;
+	text-transform: uppercase;
+	padding-right:0px;
+	padding-left:0px;
+	
+}
+
+footer.col-md-12{
+	background-color:#000;
+	color:#fff;
+	text-align:center;
+	text-transform: uppercase;
+}
